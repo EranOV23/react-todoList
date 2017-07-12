@@ -5,17 +5,17 @@ import reducers from './reducers/combineReducers';
 const state = {
     todos: [
         {
-            label: "testModel",
+            label: "Learn React",
             isCompleted: false,
             id: 1,
         },
         {
-            label: "testModel",
+            label: "Learn Redux",
             isCompleted: false,
             id: 2,
         },
         {
-            label: "testModel",
+            label: "Learn Middlewears",
             isCompleted: false,
             id: 3,
         }

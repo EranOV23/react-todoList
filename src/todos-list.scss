@@ -1,0 +1,10 @@
+.todos-list{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+
+  ul{
+    padding-left: 0px;
+  }
+}
